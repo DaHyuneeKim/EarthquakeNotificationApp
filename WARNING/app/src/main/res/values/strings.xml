@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WARNING</string>
+    <string name="title_activity_warning_earthquake">WarningEarthquake</string>
+</resources>
